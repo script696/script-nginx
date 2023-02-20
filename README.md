@@ -15,3 +15,5 @@ Script прложения
 - Дешборд построеный на React  <a align="center" href="https://github.com/script696/script-panel" target="_blank">script-panel</a>
 - Бэк построеный на Node.js  <a align="center" href="https://github.com/script696/script-api" target="_blank">script-api</a>
 
+![Screen Shot](https://github.com/script696/script-nginx/blob/main/assets/Nginx%20diagram.png)
+
